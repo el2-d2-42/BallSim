@@ -1,0 +1,6 @@
+# Requirements for BallSim
+
+setuptools
+numpy
+pandas
+pygame == 2.5.2
